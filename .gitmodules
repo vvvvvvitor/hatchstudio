@@ -1,0 +1,3 @@
+[submodule "modules/hatchgodot"]
+	path = modules/hatchgodot
+	url = https://github.com/vvvvvvitor/hatchgodot
